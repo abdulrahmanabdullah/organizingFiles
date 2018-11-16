@@ -2,5 +2,5 @@ class Organizing:
     pass
 
 
-#create instance of Org
+#create instance of Organizing 
 obj = Organizing()
