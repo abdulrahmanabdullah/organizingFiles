@@ -4,3 +4,9 @@ def getFetch():
 
 def a():
     pass
+
+
+def b():
+    pass
+def printMyName():
+    print("Abdulraman")
