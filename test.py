@@ -10,3 +10,7 @@ def b():
     pass
 def printMyName():
     print("Abdulraman")
+
+
+def testFetchAgain():
+    return "abc"
