@@ -1,4 +1,6 @@
 print("hello fetch")
+
+myName = " Abdulrahman" 
 def getFetch():
     pass
 
