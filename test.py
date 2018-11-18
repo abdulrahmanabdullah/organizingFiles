@@ -12,5 +12,5 @@ def printMyName():
     print("Abdulraman")
 
 
-def testFetchAgain():
-    return "abc"
+def checkFetch():
+    print("yes you awesome abdulrahman")
