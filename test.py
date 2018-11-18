@@ -16,3 +16,6 @@ def printMyName():
 
 def checkFetch():
     print("yes you awesome abdulrahman")
+
+def testFetchBeforePull():
+    pass
